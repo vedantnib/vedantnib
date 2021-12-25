@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello, folks! 👋
 
+- I am Vedant Nibandhe. I am a Software Engineer currently pursuing Master's in Computer Science at the University of Texas at Dallas.
 <!--
 **vedantnib/vedantnib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
